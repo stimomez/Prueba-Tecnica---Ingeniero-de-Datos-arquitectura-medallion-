@@ -1,0 +1,1001 @@
+product_id,product_name,category,price,weight_kg
+PROD-0001,Sports Item 1,sports,4205.64,24.41
+PROD-0002,Beauty Item 2,beauty,1476.12,36.24
+PROD-0003,Food Item 3,food,195.14,7.87
+PROD-0004,Pet Shop Item 4,,3874.07,36.39
+PROD-0005,Books Item 5,books,583.56,
+PROD-0006,Pet Shop Item 6,pet_shop,4204.73,4.34
+PROD-0007,Furniture Item 7,furniture,3532.19,49.35
+PROD-0008,Sports Item 8,sports,116.69,24.7
+PROD-0009,Books Item 9,books,2893.38,49.1
+PROD-0010,Garden Item 10,garden,3431.79,6.09
+PROD-0011,Office Supplies Item 11,office_supplies,1589.21,13.82
+PROD-0012,Clothing Item 12,clothing,148.11,40.48
+PROD-0013,Music Item 13,music,1718.92,38.71
+PROD-0014,Food Item 14,food,3515.69,27.63
+PROD-0015,Health Item 15,health,1452.78,4.93
+PROD-0016,Books Item 16,books,4905.16,45.75
+PROD-0017,Clothing Item 17,clothing,2206.06,49.43
+PROD-0018,Music Item 18,music,1052.49,2.45
+PROD-0019,Garden Item 19,garden,399.59,27.89
+PROD-0020,Food Item 20,food,473.51,0.44
+PROD-0021,Sports Item 21,sports,2186.59,24.96
+PROD-0022,Automotive Item 22,automotive,336.43,
+PROD-0023,Office Supplies Item 23,office_supplies,4131.69,11.46
+PROD-0024,Books Item 24,books,4123.64,
+PROD-0025,Sports Item 25,sports,4174.13,38.56
+PROD-0026,Health Item 26,health,4399.82,29.05
+PROD-0027,Food Item 27,food,2244.2,21.08
+PROD-0028,Office Supplies Item 28,office_supplies,4599.98,21.37
+PROD-0029,Health Item 29,health,4143.66,10.4
+PROD-0030,Office Supplies Item 30,office_supplies,227.26,49.89
+PROD-0031,Health Item 31,health,597.91,9.34
+PROD-0032,Sports Item 32,sports,4715.85,44.41
+PROD-0033,Garden Item 33,garden,3177.11,38.96
+PROD-0034,Food Item 34,food,3086.77,6.0
+PROD-0035,Health Item 35,health,4890.53,43.48
+PROD-0036,Health Item 36,health,3924.81,17.82
+PROD-0037,Beauty Item 37,beauty,4200.17,22.55
+PROD-0038,Toys Item 38,,2414.58,34.62
+PROD-0039,Beauty Item 39,beauty,174.8,40.77
+PROD-0040,Sports Item 40,sports,4190.12,11.28
+PROD-0041,Food Item 41,food,3595.89,21.76
+PROD-0042,Sports Item 42,sports,3225.65,27.28
+PROD-0043,Music Item 43,music,1800.21,4.16
+PROD-0044,Sports Item 44,sports,20.14,16.68
+PROD-0045,Garden Item 45,garden,2628.81,0.85
+PROD-0046,Food Item 46,food,4085.03,16.75
+PROD-0047,Electronics Item 47,electronics,2562.78,26.92
+PROD-0048,Health Item 48,health,346.83,34.78
+PROD-0049,Food Item 49,food,3247.9,17.36
+PROD-0050,Pet Shop Item 50,pet_shop,2462.86,44.66
+PROD-0051,Health Item 51,health,1988.02,6.29
+PROD-0052,Food Item 52,food,1584.4,29.33
+PROD-0053,Health Item 53,health,4292.4,48.5
+PROD-0054,Health Item 54,health,3863.02,
+PROD-0055,Food Item 55,food,2464.95,4.26
+PROD-0056,Toys Item 56,toys,2122.11,3.19
+PROD-0057,Furniture Item 57,furniture,41.25,39.32
+PROD-0058,Electronics Item 58,electronics,2384.25,4.02
+PROD-0059,Clothing Item 59,clothing,866.51,12.19
+PROD-0060,Sports Item 60,sports,4594.61,19.3
+PROD-0061,Home Appliances Item 61,home_appliances,4496.14,12.91
+PROD-0062,Beauty Item 62,beauty,434.03,49.31
+PROD-0063,Automotive Item 63,automotive,379.6,39.71
+PROD-0064,Toys Item 64,toys,970.96,34.54
+PROD-0065,Toys Item 65,toys,1667.21,2.82
+PROD-0066,Beauty Item 66,beauty,4236.8,0.17
+PROD-0067,Home Appliances Item 67,home_appliances,103.3,19.7
+PROD-0068,Home Appliances Item 68,home_appliances,2429.8,31.29
+PROD-0069,Clothing Item 69,clothing,1373.81,42.83
+PROD-0070,Pet Shop Item 70,pet_shop,1585.16,
+PROD-0071,Health Item 71,health,3785.65,41.69
+PROD-0072,Clothing Item 72,clothing,3007.24,12.95
+PROD-0073,Office Supplies Item 73,office_supplies,2281.53,2.55
+PROD-0074,Music Item 74,music,4768.14,45.22
+PROD-0075,Home Appliances Item 75,home_appliances,3558.07,36.67
+PROD-0076,Electronics Item 76,electronics,4649.45,4.84
+PROD-0077,Clothing Item 77,clothing,3295.78,40.93
+PROD-0078,Pet Shop Item 78,pet_shop,2764.29,18.13
+PROD-0079,Automotive Item 79,automotive,848.32,14.72
+PROD-0080,Music Item 80,music,1063.5,44.2
+PROD-0081,Sports Item 81,sports,4557.56,49.64
+PROD-0082,Furniture Item 82,,2470.33,20.06
+PROD-0083,Furniture Item 83,furniture,478.96,7.12
+PROD-0084,Health Item 84,health,1634.72,6.23
+PROD-0085,Beauty Item 85,beauty,2161.69,35.62
+PROD-0086,Beauty Item 86,beauty,3491.79,31.72
+PROD-0087,Automotive Item 87,automotive,1272.16,13.4
+PROD-0088,Clothing Item 88,clothing,2661.63,30.53
+PROD-0089,Garden Item 89,garden,,45.88
+PROD-0090,Garden Item 90,garden,2159.57,32.16
+PROD-0091,Food Item 91,food,2198.85,11.61
+PROD-0092,Books Item 92,books,797.79,21.7
+PROD-0093,Health Item 93,health,397.59,17.09
+PROD-0094,Home Appliances Item 94,home_appliances,4707.28,27.12
+PROD-0095,Health Item 95,,455.94,21.27
+PROD-0096,Books Item 96,books,3340.3,1.78
+PROD-0097,Sports Item 97,sports,3162.14,13.48
+PROD-0098,Beauty Item 98,beauty,597.91,47.53
+PROD-0099,Automotive Item 99,automotive,2250.59,15.97
+PROD-0100,Health Item 100,health,1614.61,22.58
+PROD-0101,Furniture Item 101,furniture,3531.06,46.95
+PROD-0102,Furniture Item 102,furniture,1298.95,43.31
+PROD-0103,Clothing Item 103,clothing,2151.11,17.49
+PROD-0104,Electronics Item 104,electronics,1616.99,21.31
+PROD-0105,Garden Item 105,garden,882.1,36.26
+PROD-0106,Clothing Item 106,clothing,,1.9
+PROD-0107,Health Item 107,health,4008.66,13.76
+PROD-0108,Furniture Item 108,furniture,1061.84,36.51
+PROD-0109,Automotive Item 109,automotive,61.11,15.83
+PROD-0110,Automotive Item 110,automotive,2809.35,39.92
+PROD-0111,Pet Shop Item 111,pet_shop,2564.98,26.32
+PROD-0112,Office Supplies Item 112,office_supplies,1062.32,21.62
+PROD-0113,Electronics Item 113,electronics,4279.11,
+PROD-0114,Home Appliances Item 114,home_appliances,533.48,17.42
+PROD-0115,Garden Item 115,garden,2552.92,49.94
+PROD-0116,Electronics Item 116,electronics,2709.07,5.94
+PROD-0117,Toys Item 117,toys,4582.34,48.12
+PROD-0118,Health Item 118,health,1452.32,14.1
+PROD-0119,Office Supplies Item 119,office_supplies,316.91,20.35
+PROD-0120,Health Item 120,health,1722.85,
+PROD-0121,Automotive Item 121,automotive,2133.24,14.04
+PROD-0122,Automotive Item 122,automotive,4656.61,34.42
+PROD-0123,Books Item 123,books,4889.34,49.74
+PROD-0124,Music Item 124,music,4487.18,33.69
+PROD-0125,Furniture Item 125,furniture,3939.26,15.17
+PROD-0126,Furniture Item 126,furniture,3002.96,4.26
+PROD-0127,Sports Item 127,sports,2011.06,11.22
+PROD-0128,Sports Item 128,sports,1332.2,47.89
+PROD-0129,Office Supplies Item 129,office_supplies,2718.75,49.31
+PROD-0130,Books Item 130,books,3335.21,27.14
+PROD-0131,Office Supplies Item 131,office_supplies,4991.66,5.71
+PROD-0132,Automotive Item 132,automotive,1287.66,35.5
+PROD-0133,Automotive Item 133,automotive,1682.33,23.85
+PROD-0134,Books Item 134,books,1119.03,10.98
+PROD-0135,Health Item 135,,468.77,27.39
+PROD-0136,Garden Item 136,garden,827.31,13.76
+PROD-0137,Office Supplies Item 137,office_supplies,2844.95,36.73
+PROD-0138,Food Item 138,food,2898.48,25.08
+PROD-0139,Furniture Item 139,furniture,1735.04,43.64
+PROD-0140,Office Supplies Item 140,office_supplies,1071.51,18.42
+PROD-0141,Books Item 141,books,,2.57
+PROD-0142,Automotive Item 142,automotive,1632.73,30.7
+PROD-0143,Office Supplies Item 143,office_supplies,957.38,19.94
+PROD-0144,Electronics Item 144,electronics,3812.45,41.82
+PROD-0145,Pet Shop Item 145,pet_shop,2875.34,1.45
+PROD-0146,Home Appliances Item 146,home_appliances,555.74,28.8
+PROD-0147,Beauty Item 147,beauty,3028.52,41.5
+PROD-0148,Automotive Item 148,automotive,1361.31,34.56
+PROD-0149,Pet Shop Item 149,pet_shop,4211.97,21.79
+PROD-0150,Books Item 150,books,4593.73,47.78
+PROD-0151,Garden Item 151,garden,3661.74,0.46
+PROD-0152,Health Item 152,health,3137.75,11.99
+PROD-0153,Electronics Item 153,electronics,2455.19,38.85
+PROD-0154,Clothing Item 154,clothing,1638.67,45.9
+PROD-0155,Food Item 155,food,586.07,36.91
+PROD-0156,Electronics Item 156,electronics,2251.97,25.19
+PROD-0157,Health Item 157,health,3983.35,1.07
+PROD-0158,Automotive Item 158,automotive,2221.6,20.62
+PROD-0159,Garden Item 159,garden,1510.14,49.24
+PROD-0160,Furniture Item 160,furniture,1275.06,42.7
+PROD-0161,Health Item 161,health,1326.84,
+PROD-0162,Books Item 162,books,4280.76,21.2
+PROD-0163,Beauty Item 163,beauty,1234.59,45.17
+PROD-0164,Music Item 164,music,2912.42,44.25
+PROD-0165,Toys Item 165,toys,2432.9,35.11
+PROD-0166,Sports Item 166,sports,523.42,48.85
+PROD-0167,Office Supplies Item 167,office_supplies,1739.1,27.92
+PROD-0168,Home Appliances Item 168,home_appliances,2191.12,11.77
+PROD-0169,Garden Item 169,garden,248.81,5.24
+PROD-0170,Toys Item 170,toys,860.76,42.84
+PROD-0171,Furniture Item 171,furniture,2308.26,31.5
+PROD-0172,Pet Shop Item 172,pet_shop,4487.17,6.45
+PROD-0173,Clothing Item 173,clothing,4126.25,46.03
+PROD-0174,Garden Item 174,garden,644.42,10.19
+PROD-0175,Clothing Item 175,clothing,1624.86,45.88
+PROD-0176,Home Appliances Item 176,home_appliances,3672.41,0.95
+PROD-0177,Beauty Item 177,beauty,1104.3,5.75
+PROD-0178,Pet Shop Item 178,pet_shop,2076.52,47.55
+PROD-0179,Furniture Item 179,furniture,3884.36,13.01
+PROD-0180,Clothing Item 180,clothing,558.23,7.59
+PROD-0181,Garden Item 181,garden,2336.75,3.25
+PROD-0182,Clothing Item 182,clothing,809.11,21.76
+PROD-0183,Furniture Item 183,furniture,2561.92,43.48
+PROD-0184,Beauty Item 184,beauty,2449.34,48.45
+PROD-0185,Beauty Item 185,beauty,506.65,5.28
+PROD-0186,Pet Shop Item 186,pet_shop,3258.83,23.51
+PROD-0187,Health Item 187,health,1712.6,18.35
+PROD-0188,Health Item 188,health,1887.21,17.26
+PROD-0189,Clothing Item 189,clothing,220.81,15.32
+PROD-0190,Home Appliances Item 190,home_appliances,1707.22,17.29
+PROD-0191,Electronics Item 191,electronics,241.3,6.61
+PROD-0192,Furniture Item 192,furniture,2015.08,19.31
+PROD-0193,Pet Shop Item 193,pet_shop,4780.83,17.84
+PROD-0194,Clothing Item 194,clothing,4589.62,3.4
+PROD-0195,Pet Shop Item 195,pet_shop,48.54,39.7
+PROD-0196,Music Item 196,music,2358.44,31.56
+PROD-0197,Health Item 197,health,3866.62,24.98
+PROD-0198,Furniture Item 198,furniture,205.41,43.43
+PROD-0199,Pet Shop Item 199,pet_shop,1661.07,32.45
+PROD-0200,Garden Item 200,garden,4054.77,35.53
+PROD-0201,Home Appliances Item 201,home_appliances,3429.8,9.16
+PROD-0202,Office Supplies Item 202,office_supplies,917.39,30.06
+PROD-0203,Garden Item 203,garden,2724.24,46.44
+PROD-0204,Toys Item 204,toys,1787.7,23.71
+PROD-0205,Clothing Item 205,clothing,2772.87,5.09
+PROD-0206,Books Item 206,books,1715.78,11.9
+PROD-0207,Furniture Item 207,furniture,4745.92,20.37
+PROD-0208,Furniture Item 208,furniture,2792.29,7.34
+PROD-0209,Music Item 209,music,1451.43,22.76
+PROD-0210,Music Item 210,music,3325.94,38.94
+PROD-0211,Health Item 211,health,1316.07,5.99
+PROD-0212,Clothing Item 212,clothing,1900.27,2.87
+PROD-0213,Office Supplies Item 213,office_supplies,2677.7,22.09
+PROD-0214,Sports Item 214,sports,3668.13,17.64
+PROD-0215,Office Supplies Item 215,office_supplies,1678.62,28.6
+PROD-0216,Pet Shop Item 216,pet_shop,2069.22,23.48
+PROD-0217,Food Item 217,food,2307.0,1.42
+PROD-0218,Toys Item 218,toys,808.7,35.75
+PROD-0219,Automotive Item 219,automotive,440.62,33.0
+PROD-0220,Office Supplies Item 220,office_supplies,3421.92,41.17
+PROD-0221,Electronics Item 221,electronics,2214.85,31.16
+PROD-0222,Electronics Item 222,electronics,1959.08,6.04
+PROD-0223,Garden Item 223,garden,1671.68,38.5
+PROD-0224,Music Item 224,music,1966.42,8.19
+PROD-0225,Pet Shop Item 225,pet_shop,620.02,45.05
+PROD-0226,Furniture Item 226,furniture,3548.76,42.97
+PROD-0227,Books Item 227,books,1301.66,37.5
+PROD-0228,Electronics Item 228,electronics,450.85,32.81
+PROD-0229,Food Item 229,food,4800.93,14.92
+PROD-0230,Office Supplies Item 230,office_supplies,3035.16,2.89
+PROD-0231,Health Item 231,health,764.28,46.13
+PROD-0232,Office Supplies Item 232,office_supplies,350.11,25.04
+PROD-0233,Office Supplies Item 233,office_supplies,4087.97,20.25
+PROD-0234,Health Item 234,,2046.76,
+PROD-0235,Food Item 235,food,2406.88,11.15
+PROD-0236,Food Item 236,food,-88.59,17.57
+PROD-0237,Electronics Item 237,electronics,595.23,16.97
+PROD-0238,Toys Item 238,toys,2909.52,23.3
+PROD-0239,Electronics Item 239,electronics,1056.6,4.41
+PROD-0240,Office Supplies Item 240,,4011.3,47.63
+PROD-0241,Beauty Item 241,beauty,1604.73,11.43
+PROD-0242,Office Supplies Item 242,office_supplies,,44.36
+PROD-0243,Toys Item 243,toys,4119.86,
+PROD-0244,Health Item 244,health,1962.11,23.18
+PROD-0245,Sports Item 245,sports,4804.46,29.04
+PROD-0246,Health Item 246,health,3560.4,43.84
+PROD-0247,Food Item 247,food,1705.88,38.46
+PROD-0248,Health Item 248,health,982.36,15.77
+PROD-0249,Pet Shop Item 249,pet_shop,4732.75,4.87
+PROD-0250,Home Appliances Item 250,home_appliances,3191.73,24.88
+PROD-0251,Food Item 251,food,4433.3,31.9
+PROD-0252,Electronics Item 252,electronics,4433.25,22.18
+PROD-0253,Garden Item 253,garden,2565.43,4.26
+PROD-0254,Music Item 254,music,2989.86,37.08
+PROD-0255,Home Appliances Item 255,home_appliances,2615.95,31.69
+PROD-0256,Electronics Item 256,electronics,3401.02,42.99
+PROD-0257,Beauty Item 257,beauty,4236.28,3.97
+PROD-0258,Automotive Item 258,automotive,577.61,32.33
+PROD-0259,Garden Item 259,garden,2619.88,33.75
+PROD-0260,Electronics Item 260,electronics,3904.58,34.61
+PROD-0261,Books Item 261,books,516.86,15.79
+PROD-0262,Books Item 262,books,697.24,43.98
+PROD-0263,Toys Item 263,toys,1683.95,38.95
+PROD-0264,Garden Item 264,garden,1720.95,21.02
+PROD-0265,Food Item 265,food,4916.58,5.77
+PROD-0266,Office Supplies Item 266,office_supplies,695.6,3.64
+PROD-0267,Clothing Item 267,clothing,1575.96,31.94
+PROD-0268,Furniture Item 268,furniture,4260.94,1.45
+PROD-0269,Furniture Item 269,furniture,3925.81,28.62
+PROD-0270,Clothing Item 270,clothing,232.0,4.18
+PROD-0271,Beauty Item 271,beauty,3434.29,28.48
+PROD-0272,Sports Item 272,sports,3894.64,2.92
+PROD-0273,Clothing Item 273,clothing,1316.93,39.01
+PROD-0274,Automotive Item 274,automotive,906.31,25.92
+PROD-0275,Books Item 275,books,822.1,13.8
+PROD-0276,Automotive Item 276,automotive,4390.3,31.5
+PROD-0277,Food Item 277,food,662.32,43.11
+PROD-0278,Music Item 278,music,3770.67,11.85
+PROD-0279,Garden Item 279,garden,4397.63,47.11
+PROD-0280,Beauty Item 280,beauty,1156.75,22.03
+PROD-0281,Food Item 281,food,106.7,10.14
+PROD-0282,Garden Item 282,garden,234.34,
+PROD-0283,Sports Item 283,sports,2102.39,6.68
+PROD-0284,Office Supplies Item 284,office_supplies,1483.91,34.26
+PROD-0285,Books Item 285,books,1435.3,16.38
+PROD-0286,Office Supplies Item 286,office_supplies,3191.82,41.84
+PROD-0287,Sports Item 287,sports,3418.87,
+PROD-0288,Home Appliances Item 288,home_appliances,2683.99,21.12
+PROD-0289,Beauty Item 289,beauty,3159.48,10.21
+PROD-0290,Garden Item 290,garden,2740.26,20.0
+PROD-0291,Sports Item 291,sports,3869.07,45.27
+PROD-0292,Books Item 292,books,1298.93,13.47
+PROD-0293,Garden Item 293,garden,2627.58,32.25
+PROD-0294,Garden Item 294,garden,4688.4,8.42
+PROD-0295,Garden Item 295,garden,4697.48,15.12
+PROD-0296,Home Appliances Item 296,home_appliances,410.01,25.46
+PROD-0297,Office Supplies Item 297,office_supplies,559.08,32.19
+PROD-0298,Pet Shop Item 298,pet_shop,896.97,38.98
+PROD-0299,Clothing Item 299,clothing,2392.99,35.75
+PROD-0300,Food Item 300,food,3092.74,24.67
+PROD-0301,Automotive Item 301,automotive,3416.1,22.68
+PROD-0302,Food Item 302,food,265.78,10.68
+PROD-0303,Electronics Item 303,,3760.04,44.43
+PROD-0304,Garden Item 304,garden,1236.38,31.99
+PROD-0305,Home Appliances Item 305,home_appliances,3803.47,47.72
+PROD-0306,Health Item 306,health,3669.33,36.77
+PROD-0307,Garden Item 307,garden,1063.3,38.32
+PROD-0308,Health Item 308,health,2962.63,48.04
+PROD-0309,Food Item 309,food,4158.63,19.05
+PROD-0310,Garden Item 310,garden,603.4,37.18
+PROD-0311,Garden Item 311,garden,184.71,28.76
+PROD-0312,Home Appliances Item 312,home_appliances,1641.98,5.88
+PROD-0313,Furniture Item 313,furniture,2382.16,
+PROD-0314,Beauty Item 314,beauty,1668.05,19.63
+PROD-0315,Office Supplies Item 315,office_supplies,2096.07,35.8
+PROD-0316,Garden Item 316,garden,2820.45,2.22
+PROD-0317,Home Appliances Item 317,,2599.23,42.19
+PROD-0318,Books Item 318,books,4920.83,28.82
+PROD-0319,Electronics Item 319,electronics,2802.5,11.3
+PROD-0320,Beauty Item 320,beauty,-19.91,39.52
+PROD-0321,Sports Item 321,sports,-25.6,42.82
+PROD-0322,Home Appliances Item 322,home_appliances,3679.61,5.56
+PROD-0323,Music Item 323,music,1356.47,44.97
+PROD-0324,Automotive Item 324,automotive,2707.87,35.12
+PROD-0325,Clothing Item 325,clothing,3212.51,6.75
+PROD-0326,Garden Item 326,garden,1180.25,40.09
+PROD-0327,Furniture Item 327,furniture,3147.23,21.04
+PROD-0328,Office Supplies Item 328,office_supplies,986.62,2.11
+PROD-0329,Automotive Item 329,automotive,3774.03,27.31
+PROD-0330,Garden Item 330,garden,3750.17,42.35
+PROD-0331,Garden Item 331,garden,1758.55,2.21
+PROD-0332,Beauty Item 332,beauty,-89.85,23.02
+PROD-0333,Beauty Item 333,beauty,2518.29,8.85
+PROD-0334,Office Supplies Item 334,office_supplies,4013.21,24.29
+PROD-0335,Clothing Item 335,clothing,2438.33,47.99
+PROD-0336,Furniture Item 336,furniture,3506.81,11.16
+PROD-0337,Clothing Item 337,clothing,2092.65,22.01
+PROD-0338,Furniture Item 338,furniture,3269.17,
+PROD-0339,Toys Item 339,toys,4593.11,16.63
+PROD-0340,Toys Item 340,toys,3963.01,11.69
+PROD-0341,Garden Item 341,garden,2451.27,21.41
+PROD-0342,Automotive Item 342,,471.34,24.93
+PROD-0343,Pet Shop Item 343,pet_shop,2987.18,45.71
+PROD-0344,Electronics Item 344,electronics,2413.26,35.18
+PROD-0345,Pet Shop Item 345,pet_shop,4902.15,36.65
+PROD-0346,Food Item 346,food,3726.82,10.47
+PROD-0347,Sports Item 347,sports,1158.26,33.74
+PROD-0348,Beauty Item 348,beauty,1329.13,34.71
+PROD-0349,Clothing Item 349,clothing,2221.22,45.69
+PROD-0350,Pet Shop Item 350,pet_shop,3385.53,34.33
+PROD-0351,Toys Item 351,toys,,22.52
+PROD-0352,Music Item 352,music,1882.72,11.01
+PROD-0353,Toys Item 353,toys,431.58,28.08
+PROD-0354,Sports Item 354,sports,4560.31,27.28
+PROD-0355,Clothing Item 355,clothing,2504.01,3.93
+PROD-0356,Music Item 356,music,4572.65,35.76
+PROD-0357,Office Supplies Item 357,office_supplies,1946.92,8.61
+PROD-0358,Beauty Item 358,beauty,2099.36,39.87
+PROD-0359,Clothing Item 359,clothing,3988.73,9.26
+PROD-0360,Clothing Item 360,clothing,1777.4,34.89
+PROD-0361,Furniture Item 361,furniture,2706.57,25.07
+PROD-0362,Food Item 362,food,2097.45,45.59
+PROD-0363,Home Appliances Item 363,home_appliances,851.6,37.31
+PROD-0364,Furniture Item 364,furniture,1069.53,20.85
+PROD-0365,Books Item 365,books,3685.2,5.18
+PROD-0366,Furniture Item 366,furniture,2785.28,40.68
+PROD-0367,Automotive Item 367,automotive,3747.81,17.58
+PROD-0368,Beauty Item 368,beauty,4680.96,27.02
+PROD-0369,Sports Item 369,sports,3471.58,2.82
+PROD-0370,Garden Item 370,garden,2266.7,40.72
+PROD-0371,Beauty Item 371,beauty,2365.62,36.46
+PROD-0372,Sports Item 372,sports,4472.57,40.61
+PROD-0373,Beauty Item 373,beauty,1349.05,14.34
+PROD-0374,Sports Item 374,sports,3406.35,22.7
+PROD-0375,Home Appliances Item 375,home_appliances,746.81,30.97
+PROD-0376,Home Appliances Item 376,home_appliances,1600.11,
+PROD-0377,Home Appliances Item 377,home_appliances,3109.49,15.02
+PROD-0378,Sports Item 378,sports,2336.39,6.9
+PROD-0379,Electronics Item 379,electronics,1091.44,3.54
+PROD-0380,Health Item 380,health,915.62,4.08
+PROD-0381,Beauty Item 381,beauty,3738.55,14.11
+PROD-0382,Clothing Item 382,clothing,2691.03,41.87
+PROD-0383,Sports Item 383,sports,4877.87,45.14
+PROD-0384,Garden Item 384,garden,3175.53,9.55
+PROD-0385,Books Item 385,books,-6.38,1.76
+PROD-0386,Furniture Item 386,furniture,2437.22,30.35
+PROD-0387,Electronics Item 387,electronics,2707.89,41.21
+PROD-0388,Books Item 388,books,2237.05,29.62
+PROD-0389,Garden Item 389,garden,3558.77,30.31
+PROD-0390,Home Appliances Item 390,home_appliances,2954.28,33.37
+PROD-0391,Toys Item 391,toys,2577.26,2.25
+PROD-0392,Office Supplies Item 392,office_supplies,2539.35,22.32
+PROD-0393,Home Appliances Item 393,home_appliances,3204.04,49.71
+PROD-0394,Office Supplies Item 394,office_supplies,3410.25,1.27
+PROD-0395,Garden Item 395,garden,3609.53,33.53
+PROD-0396,Health Item 396,health,1162.05,8.41
+PROD-0397,Health Item 397,health,4122.65,21.35
+PROD-0398,Beauty Item 398,beauty,4084.23,49.26
+PROD-0399,Furniture Item 399,furniture,2701.46,41.13
+PROD-0400,Garden Item 400,garden,1632.04,19.96
+PROD-0401,Health Item 401,health,4631.48,2.05
+PROD-0402,Pet Shop Item 402,pet_shop,807.48,24.29
+PROD-0403,Health Item 403,health,4011.19,11.41
+PROD-0404,Books Item 404,books,2558.52,46.56
+PROD-0405,Health Item 405,health,44.88,46.87
+PROD-0406,Home Appliances Item 406,home_appliances,4581.0,
+PROD-0407,Furniture Item 407,furniture,5.6,1.08
+PROD-0408,Home Appliances Item 408,home_appliances,2805.83,25.46
+PROD-0409,Office Supplies Item 409,office_supplies,3522.27,44.65
+PROD-0410,Music Item 410,music,2072.87,0.28
+PROD-0411,Beauty Item 411,beauty,316.83,4.35
+PROD-0412,Beauty Item 412,beauty,1017.8,16.45
+PROD-0413,Automotive Item 413,automotive,2322.66,19.82
+PROD-0414,Music Item 414,music,3933.89,10.71
+PROD-0415,Office Supplies Item 415,office_supplies,3412.36,5.87
+PROD-0416,Garden Item 416,garden,1109.14,49.53
+PROD-0417,Electronics Item 417,electronics,2281.56,37.98
+PROD-0418,Furniture Item 418,furniture,4284.69,42.7
+PROD-0419,Home Appliances Item 419,home_appliances,1437.16,31.96
+PROD-0420,Books Item 420,books,536.7,14.08
+PROD-0421,Garden Item 421,garden,939.12,47.58
+PROD-0422,Food Item 422,food,657.66,26.51
+PROD-0423,Pet Shop Item 423,pet_shop,3891.92,20.72
+PROD-0424,Electronics Item 424,electronics,344.79,3.41
+PROD-0425,Food Item 425,food,2962.46,29.53
+PROD-0426,Sports Item 426,sports,4719.08,4.29
+PROD-0427,Beauty Item 427,beauty,3959.06,31.22
+PROD-0428,Furniture Item 428,furniture,1302.65,
+PROD-0429,Garden Item 429,garden,2728.67,23.87
+PROD-0430,Electronics Item 430,electronics,4239.05,47.13
+PROD-0431,Electronics Item 431,electronics,1435.07,27.11
+PROD-0432,Garden Item 432,garden,1425.65,21.64
+PROD-0433,Health Item 433,health,2588.49,40.66
+PROD-0434,Music Item 434,music,1335.05,
+PROD-0435,Sports Item 435,sports,3004.79,7.26
+PROD-0436,Pet Shop Item 436,pet_shop,169.6,49.47
+PROD-0437,Health Item 437,health,1205.49,37.96
+PROD-0438,Garden Item 438,garden,3165.39,28.83
+PROD-0439,Food Item 439,food,698.04,15.28
+PROD-0440,Food Item 440,food,4746.04,19.6
+PROD-0441,Garden Item 441,garden,792.31,42.15
+PROD-0442,Music Item 442,music,3986.84,43.32
+PROD-0443,Sports Item 443,sports,2280.03,45.08
+PROD-0444,Furniture Item 444,furniture,1304.05,47.45
+PROD-0445,Sports Item 445,sports,2653.5,39.72
+PROD-0446,Beauty Item 446,beauty,3477.17,3.18
+PROD-0447,Health Item 447,health,4656.3,13.88
+PROD-0448,Garden Item 448,garden,271.76,29.09
+PROD-0449,Pet Shop Item 449,pet_shop,2047.36,1.08
+PROD-0450,Books Item 450,books,3336.41,19.68
+PROD-0451,Pet Shop Item 451,pet_shop,2324.63,19.57
+PROD-0452,Office Supplies Item 452,office_supplies,1469.81,48.45
+PROD-0453,Sports Item 453,sports,736.41,18.04
+PROD-0454,Pet Shop Item 454,pet_shop,939.2,42.4
+PROD-0455,Clothing Item 455,clothing,958.54,39.62
+PROD-0456,Clothing Item 456,clothing,3734.85,36.59
+PROD-0457,Automotive Item 457,automotive,1105.96,8.92
+PROD-0458,Sports Item 458,sports,1878.21,37.74
+PROD-0459,Sports Item 459,sports,3657.97,10.09
+PROD-0460,Electronics Item 460,electronics,4367.03,35.88
+PROD-0461,Office Supplies Item 461,office_supplies,4020.27,49.56
+PROD-0462,Office Supplies Item 462,office_supplies,3111.99,49.38
+PROD-0463,Food Item 463,food,147.52,12.32
+PROD-0464,Furniture Item 464,furniture,4599.03,33.5
+PROD-0465,Automotive Item 465,automotive,2622.47,35.57
+PROD-0466,Beauty Item 466,beauty,122.8,19.85
+PROD-0467,Music Item 467,music,488.9,24.74
+PROD-0468,Toys Item 468,toys,3977.18,30.33
+PROD-0469,Electronics Item 469,electronics,325.35,3.69
+PROD-0470,Pet Shop Item 470,pet_shop,400.56,9.39
+PROD-0471,Clothing Item 471,clothing,3242.46,13.11
+PROD-0472,Music Item 472,,487.13,31.29
+PROD-0473,Beauty Item 473,beauty,3820.32,42.73
+PROD-0474,Automotive Item 474,,4099.33,14.94
+PROD-0475,Sports Item 475,sports,869.7,35.34
+PROD-0476,Beauty Item 476,beauty,4750.79,18.34
+PROD-0477,Music Item 477,music,4908.74,43.04
+PROD-0478,Toys Item 478,toys,3565.57,47.76
+PROD-0479,Furniture Item 479,furniture,3686.99,32.34
+PROD-0480,Music Item 480,music,360.34,34.63
+PROD-0481,Automotive Item 481,automotive,2689.11,26.77
+PROD-0482,Books Item 482,books,1811.32,9.56
+PROD-0483,Office Supplies Item 483,office_supplies,2218.97,47.95
+PROD-0484,Beauty Item 484,,3258.19,40.09
+PROD-0485,Toys Item 485,toys,1274.5,44.26
+PROD-0486,Food Item 486,food,2938.57,9.67
+PROD-0487,Office Supplies Item 487,,4676.69,11.77
+PROD-0488,Clothing Item 488,clothing,3906.31,40.94
+PROD-0489,Food Item 489,food,4959.74,13.92
+PROD-0490,Home Appliances Item 490,home_appliances,4897.28,34.33
+PROD-0491,Pet Shop Item 491,pet_shop,2427.07,16.85
+PROD-0492,Books Item 492,books,4511.84,17.61
+PROD-0493,Home Appliances Item 493,home_appliances,1489.18,
+PROD-0494,Electronics Item 494,electronics,2082.34,36.22
+PROD-0495,Food Item 495,food,2596.56,8.44
+PROD-0496,Music Item 496,music,1149.21,49.17
+PROD-0497,Books Item 497,books,4928.67,21.03
+PROD-0498,Office Supplies Item 498,office_supplies,973.21,8.15
+PROD-0499,Clothing Item 499,clothing,4785.79,9.18
+PROD-0500,Sports Item 500,sports,,12.81
+PROD-0501,Garden Item 501,garden,4409.27,44.0
+PROD-0502,Furniture Item 502,furniture,4247.17,44.43
+PROD-0503,Books Item 503,books,65.99,7.6
+PROD-0504,Sports Item 504,sports,1134.34,41.39
+PROD-0505,Pet Shop Item 505,pet_shop,1054.93,41.8
+PROD-0506,Sports Item 506,sports,2717.48,20.21
+PROD-0507,Beauty Item 507,beauty,2541.23,36.56
+PROD-0508,Health Item 508,health,4376.04,42.62
+PROD-0509,Music Item 509,music,1579.39,16.1
+PROD-0510,Pet Shop Item 510,pet_shop,1579.66,15.65
+PROD-0511,Garden Item 511,garden,3288.42,5.53
+PROD-0512,Music Item 512,music,2563.18,1.83
+PROD-0513,Clothing Item 513,clothing,1480.16,39.7
+PROD-0514,Automotive Item 514,automotive,573.51,46.22
+PROD-0515,Beauty Item 515,beauty,3216.78,49.37
+PROD-0516,Home Appliances Item 516,home_appliances,3422.96,40.16
+PROD-0517,Music Item 517,music,1132.1,5.16
+PROD-0518,Automotive Item 518,automotive,1084.75,15.17
+PROD-0519,Garden Item 519,garden,771.87,35.28
+PROD-0520,Home Appliances Item 520,home_appliances,2008.56,17.17
+PROD-0521,Music Item 521,music,2166.56,8.47
+PROD-0522,Books Item 522,books,1294.92,15.68
+PROD-0523,Music Item 523,music,1027.42,29.4
+PROD-0524,Food Item 524,food,2979.08,46.29
+PROD-0525,Automotive Item 525,automotive,243.22,46.73
+PROD-0526,Garden Item 526,garden,2111.94,34.52
+PROD-0527,Toys Item 527,toys,4169.58,
+PROD-0528,Furniture Item 528,furniture,2022.6,12.74
+PROD-0529,Automotive Item 529,automotive,2493.05,47.58
+PROD-0530,Furniture Item 530,furniture,1717.46,36.03
+PROD-0531,Music Item 531,music,1362.97,28.93
+PROD-0532,Office Supplies Item 532,office_supplies,3492.85,26.76
+PROD-0533,Books Item 533,books,847.53,4.09
+PROD-0534,Furniture Item 534,furniture,4927.22,41.75
+PROD-0535,Automotive Item 535,automotive,3219.41,
+PROD-0536,Beauty Item 536,beauty,2267.18,13.88
+PROD-0537,Books Item 537,books,3231.69,29.16
+PROD-0538,Pet Shop Item 538,pet_shop,4816.93,27.15
+PROD-0539,Food Item 539,food,2290.56,9.02
+PROD-0540,Furniture Item 540,furniture,44.36,21.8
+PROD-0541,Health Item 541,health,2892.83,
+PROD-0542,Electronics Item 542,electronics,4151.97,19.43
+PROD-0543,Automotive Item 543,automotive,4243.4,14.07
+PROD-0544,Furniture Item 544,furniture,2690.92,40.02
+PROD-0545,Furniture Item 545,furniture,4953.52,4.12
+PROD-0546,Food Item 546,food,1025.19,25.04
+PROD-0547,Toys Item 547,toys,1355.46,48.19
+PROD-0548,Garden Item 548,garden,3977.76,26.73
+PROD-0549,Clothing Item 549,clothing,4187.91,25.39
+PROD-0550,Electronics Item 550,electronics,3693.59,2.73
+PROD-0551,Books Item 551,books,2574.73,49.2
+PROD-0552,Electronics Item 552,electronics,616.3,40.33
+PROD-0553,Music Item 553,music,2200.14,30.21
+PROD-0554,Music Item 554,music,1080.79,10.54
+PROD-0555,Automotive Item 555,automotive,1046.68,18.97
+PROD-0556,Toys Item 556,toys,4921.76,31.66
+PROD-0557,Clothing Item 557,clothing,4337.75,42.0
+PROD-0558,Garden Item 558,garden,47.71,11.01
+PROD-0559,Garden Item 559,garden,111.61,14.32
+PROD-0560,Toys Item 560,toys,1692.55,16.4
+PROD-0561,Sports Item 561,sports,1956.77,48.77
+PROD-0562,Music Item 562,music,3300.05,7.11
+PROD-0563,Clothing Item 563,clothing,488.71,11.62
+PROD-0564,Office Supplies Item 564,office_supplies,158.18,32.17
+PROD-0565,Electronics Item 565,electronics,4577.67,4.72
+PROD-0566,Music Item 566,music,4658.75,10.96
+PROD-0567,Furniture Item 567,furniture,897.75,6.58
+PROD-0568,Furniture Item 568,furniture,1175.69,22.25
+PROD-0569,Electronics Item 569,electronics,3312.0,44.46
+PROD-0570,Food Item 570,food,396.0,48.43
+PROD-0571,Toys Item 571,toys,2901.21,37.46
+PROD-0572,Sports Item 572,sports,442.33,27.49
+PROD-0573,Sports Item 573,sports,4153.83,45.9
+PROD-0574,Health Item 574,health,2025.91,15.03
+PROD-0575,Books Item 575,books,4426.66,44.45
+PROD-0576,Garden Item 576,garden,560.48,3.83
+PROD-0577,Clothing Item 577,clothing,3994.75,44.7
+PROD-0578,Home Appliances Item 578,home_appliances,3717.61,29.01
+PROD-0579,Sports Item 579,sports,3223.03,7.44
+PROD-0580,Music Item 580,music,-84.33,3.84
+PROD-0581,Office Supplies Item 581,office_supplies,4247.73,45.84
+PROD-0582,Electronics Item 582,electronics,457.8,44.52
+PROD-0583,Books Item 583,books,3809.45,13.54
+PROD-0584,Music Item 584,music,1503.93,40.39
+PROD-0585,Clothing Item 585,clothing,1079.65,6.62
+PROD-0586,Home Appliances Item 586,home_appliances,4564.29,29.9
+PROD-0587,Music Item 587,music,2892.64,40.53
+PROD-0588,Food Item 588,food,3738.5,7.71
+PROD-0589,Toys Item 589,toys,1020.73,2.89
+PROD-0590,Office Supplies Item 590,office_supplies,335.86,27.45
+PROD-0591,Garden Item 591,garden,3056.85,4.46
+PROD-0592,Automotive Item 592,automotive,4785.74,6.35
+PROD-0593,Music Item 593,music,3548.56,31.46
+PROD-0594,Electronics Item 594,electronics,3613.4,26.4
+PROD-0595,Electronics Item 595,electronics,1937.58,4.92
+PROD-0596,Furniture Item 596,furniture,1603.32,7.68
+PROD-0597,Automotive Item 597,automotive,4547.58,47.09
+PROD-0598,Electronics Item 598,electronics,2532.4,32.2
+PROD-0599,Office Supplies Item 599,office_supplies,76.77,13.04
+PROD-0600,Office Supplies Item 600,office_supplies,2620.97,22.06
+PROD-0601,Clothing Item 601,clothing,831.19,37.44
+PROD-0602,Beauty Item 602,beauty,2762.25,2.82
+PROD-0603,Home Appliances Item 603,home_appliances,80.3,7.18
+PROD-0604,Pet Shop Item 604,pet_shop,4301.63,21.89
+PROD-0605,Beauty Item 605,beauty,2369.44,2.76
+PROD-0606,Garden Item 606,garden,4976.41,42.66
+PROD-0607,Books Item 607,books,1103.08,35.69
+PROD-0608,Automotive Item 608,automotive,760.4,15.44
+PROD-0609,Food Item 609,food,1479.0,11.71
+PROD-0610,Office Supplies Item 610,office_supplies,225.26,33.29
+PROD-0611,Beauty Item 611,beauty,3314.89,
+PROD-0612,Clothing Item 612,clothing,1806.57,41.93
+PROD-0613,Automotive Item 613,automotive,319.74,28.51
+PROD-0614,Sports Item 614,sports,1072.64,8.89
+PROD-0615,Health Item 615,health,4300.13,17.71
+PROD-0616,Clothing Item 616,clothing,4457.74,0.59
+PROD-0617,Home Appliances Item 617,home_appliances,4768.39,33.74
+PROD-0618,Sports Item 618,sports,4292.9,47.78
+PROD-0619,Beauty Item 619,beauty,4392.86,29.75
+PROD-0620,Books Item 620,books,,22.73
+PROD-0621,Pet Shop Item 621,pet_shop,2226.89,3.87
+PROD-0622,Garden Item 622,garden,3627.24,36.66
+PROD-0623,Pet Shop Item 623,pet_shop,3036.33,28.29
+PROD-0624,Sports Item 624,sports,4249.69,39.33
+PROD-0625,Clothing Item 625,clothing,4086.98,46.78
+PROD-0626,Books Item 626,books,4995.86,44.89
+PROD-0627,Home Appliances Item 627,home_appliances,4196.59,16.77
+PROD-0628,Clothing Item 628,clothing,731.18,
+PROD-0629,Beauty Item 629,beauty,4904.5,24.46
+PROD-0630,Beauty Item 630,beauty,409.94,28.11
+PROD-0631,Clothing Item 631,clothing,557.19,15.15
+PROD-0632,Health Item 632,health,1166.48,44.59
+PROD-0633,Clothing Item 633,clothing,2427.17,31.12
+PROD-0634,Food Item 634,food,4293.32,7.62
+PROD-0635,Health Item 635,health,3251.66,0.38
+PROD-0636,Sports Item 636,sports,60.48,11.03
+PROD-0637,Office Supplies Item 637,office_supplies,2560.02,7.24
+PROD-0638,Home Appliances Item 638,,4533.1,10.39
+PROD-0639,Sports Item 639,,4901.67,2.63
+PROD-0640,Furniture Item 640,furniture,585.23,15.05
+PROD-0641,Toys Item 641,toys,845.25,42.61
+PROD-0642,Books Item 642,books,1175.22,3.06
+PROD-0643,Home Appliances Item 643,home_appliances,4862.43,44.64
+PROD-0644,Garden Item 644,garden,3177.88,27.96
+PROD-0645,Automotive Item 645,automotive,4424.07,34.24
+PROD-0646,Pet Shop Item 646,pet_shop,721.92,24.28
+PROD-0647,Books Item 647,books,2176.79,26.04
+PROD-0648,Pet Shop Item 648,pet_shop,2717.26,8.94
+PROD-0649,Clothing Item 649,clothing,3761.73,24.12
+PROD-0650,Health Item 650,health,1466.05,8.08
+PROD-0651,Garden Item 651,garden,4635.07,8.36
+PROD-0652,Beauty Item 652,beauty,3240.29,36.07
+PROD-0653,Books Item 653,books,1182.05,25.86
+PROD-0654,Books Item 654,books,4518.15,2.4
+PROD-0655,Pet Shop Item 655,pet_shop,4724.25,32.1
+PROD-0656,Clothing Item 656,clothing,1484.46,2.01
+PROD-0657,Sports Item 657,sports,1086.96,13.11
+PROD-0658,Music Item 658,music,1611.45,17.42
+PROD-0659,Furniture Item 659,furniture,4507.35,5.82
+PROD-0660,Garden Item 660,garden,287.31,22.56
+PROD-0661,Office Supplies Item 661,office_supplies,946.56,42.09
+PROD-0662,Food Item 662,food,1298.75,29.71
+PROD-0663,Books Item 663,books,1588.94,22.69
+PROD-0664,Automotive Item 664,automotive,755.05,18.63
+PROD-0665,Health Item 665,health,3990.87,20.83
+PROD-0666,Furniture Item 666,furniture,907.91,14.67
+PROD-0667,Beauty Item 667,beauty,2654.58,40.31
+PROD-0668,Toys Item 668,toys,1088.69,12.06
+PROD-0669,Home Appliances Item 669,home_appliances,1410.36,13.28
+PROD-0670,Clothing Item 670,clothing,501.36,0.9
+PROD-0671,Home Appliances Item 671,home_appliances,4024.61,39.05
+PROD-0672,Office Supplies Item 672,office_supplies,4728.63,34.59
+PROD-0673,Sports Item 673,sports,1822.4,31.08
+PROD-0674,Health Item 674,health,1626.68,7.56
+PROD-0675,Garden Item 675,garden,2695.23,41.39
+PROD-0676,Sports Item 676,sports,2158.5,29.2
+PROD-0677,Health Item 677,health,3683.34,22.93
+PROD-0678,Furniture Item 678,furniture,1495.88,
+PROD-0679,Sports Item 679,sports,4871.48,22.18
+PROD-0680,Health Item 680,health,2178.8,23.06
+PROD-0681,Office Supplies Item 681,office_supplies,254.77,20.11
+PROD-0682,Clothing Item 682,clothing,1042.93,10.89
+PROD-0683,Garden Item 683,garden,2455.76,10.31
+PROD-0684,Furniture Item 684,furniture,2520.54,22.75
+PROD-0685,Pet Shop Item 685,pet_shop,2870.11,23.92
+PROD-0686,Pet Shop Item 686,pet_shop,3429.43,40.64
+PROD-0687,Garden Item 687,garden,1719.18,49.63
+PROD-0688,Music Item 688,music,3330.56,43.54
+PROD-0689,Office Supplies Item 689,office_supplies,4243.77,5.05
+PROD-0690,Automotive Item 690,automotive,4725.65,27.28
+PROD-0691,Office Supplies Item 691,office_supplies,1919.49,32.41
+PROD-0692,Sports Item 692,sports,3119.43,19.35
+PROD-0693,Music Item 693,music,-99.1,18.13
+PROD-0694,Garden Item 694,garden,1161.02,25.08
+PROD-0695,Garden Item 695,garden,3230.12,0.32
+PROD-0696,Home Appliances Item 696,home_appliances,4263.25,46.0
+PROD-0697,Office Supplies Item 697,office_supplies,2584.86,18.75
+PROD-0698,Garden Item 698,garden,3205.77,
+PROD-0699,Food Item 699,food,1507.98,42.06
+PROD-0700,Health Item 700,health,4138.81,28.12
+PROD-0701,Home Appliances Item 701,home_appliances,4072.72,15.01
+PROD-0702,Clothing Item 702,clothing,992.59,48.45
+PROD-0703,Clothing Item 703,clothing,3873.15,44.52
+PROD-0704,Home Appliances Item 704,home_appliances,2224.8,44.1
+PROD-0705,Books Item 705,books,4756.2,33.99
+PROD-0706,Beauty Item 706,beauty,1503.33,7.8
+PROD-0707,Health Item 707,health,1640.28,7.17
+PROD-0708,Home Appliances Item 708,home_appliances,558.32,30.25
+PROD-0709,Sports Item 709,sports,4399.09,
+PROD-0710,Home Appliances Item 710,home_appliances,2352.0,19.22
+PROD-0711,Office Supplies Item 711,office_supplies,1253.58,35.04
+PROD-0712,Beauty Item 712,beauty,1601.28,7.14
+PROD-0713,Food Item 713,food,3521.63,9.38
+PROD-0714,Beauty Item 714,beauty,1292.84,40.67
+PROD-0715,Automotive Item 715,automotive,3936.3,16.73
+PROD-0716,Toys Item 716,toys,1600.89,35.85
+PROD-0717,Electronics Item 717,electronics,4143.51,32.77
+PROD-0718,Beauty Item 718,beauty,3383.75,24.6
+PROD-0719,Furniture Item 719,furniture,-89.99,9.9
+PROD-0720,Beauty Item 720,beauty,4706.07,28.92
+PROD-0721,Electronics Item 721,electronics,2075.64,28.81
+PROD-0722,Pet Shop Item 722,pet_shop,2364.69,3.09
+PROD-0723,Food Item 723,food,2113.96,21.25
+PROD-0724,Office Supplies Item 724,office_supplies,2641.52,
+PROD-0725,Music Item 725,music,2305.73,42.38
+PROD-0726,Health Item 726,health,2500.36,3.89
+PROD-0727,Music Item 727,music,1262.27,9.11
+PROD-0728,Health Item 728,health,,36.62
+PROD-0729,Electronics Item 729,electronics,1267.67,4.61
+PROD-0730,Music Item 730,music,3469.14,36.47
+PROD-0731,Music Item 731,music,44.76,13.27
+PROD-0732,Office Supplies Item 732,office_supplies,4846.36,43.56
+PROD-0733,Office Supplies Item 733,office_supplies,3472.24,46.94
+PROD-0734,Pet Shop Item 734,pet_shop,840.27,4.75
+PROD-0735,Pet Shop Item 735,pet_shop,4488.97,11.05
+PROD-0736,Office Supplies Item 736,office_supplies,2101.69,22.87
+PROD-0737,Health Item 737,health,2908.08,28.66
+PROD-0738,Furniture Item 738,furniture,2314.95,2.52
+PROD-0739,Beauty Item 739,beauty,4549.81,26.08
+PROD-0740,Electronics Item 740,electronics,1958.08,41.84
+PROD-0741,Clothing Item 741,clothing,-15.47,35.95
+PROD-0742,Beauty Item 742,beauty,4641.88,45.55
+PROD-0743,Garden Item 743,garden,1014.68,29.56
+PROD-0744,Books Item 744,books,3339.77,39.42
+PROD-0745,Home Appliances Item 745,home_appliances,826.01,15.01
+PROD-0746,Beauty Item 746,beauty,621.84,28.72
+PROD-0747,Garden Item 747,garden,3658.9,16.72
+PROD-0748,Pet Shop Item 748,pet_shop,202.84,47.24
+PROD-0749,Garden Item 749,garden,4632.06,40.78
+PROD-0750,Furniture Item 750,furniture,670.83,42.03
+PROD-0751,Office Supplies Item 751,office_supplies,1593.15,38.72
+PROD-0752,Beauty Item 752,beauty,1064.18,19.95
+PROD-0753,Food Item 753,food,1690.49,22.24
+PROD-0754,Clothing Item 754,,3039.86,31.63
+PROD-0755,Sports Item 755,sports,2757.03,33.55
+PROD-0756,Pet Shop Item 756,pet_shop,1791.68,48.25
+PROD-0757,Office Supplies Item 757,office_supplies,1682.84,25.76
+PROD-0758,Electronics Item 758,electronics,1938.01,2.61
+PROD-0759,Automotive Item 759,automotive,2894.69,14.5
+PROD-0760,Pet Shop Item 760,pet_shop,10.49,2.03
+PROD-0761,Beauty Item 761,beauty,2982.66,2.52
+PROD-0762,Automotive Item 762,automotive,97.29,45.75
+PROD-0763,Office Supplies Item 763,office_supplies,2517.3,4.61
+PROD-0764,Toys Item 764,toys,3988.65,23.3
+PROD-0765,Sports Item 765,sports,2706.03,5.15
+PROD-0766,Furniture Item 766,furniture,3938.15,7.26
+PROD-0767,Garden Item 767,,2548.79,13.08
+PROD-0768,Toys Item 768,toys,868.15,13.84
+PROD-0769,Pet Shop Item 769,pet_shop,3815.32,46.03
+PROD-0770,Beauty Item 770,,81.83,33.9
+PROD-0771,Toys Item 771,toys,-89.87,4.77
+PROD-0772,Health Item 772,health,2451.18,0.84
+PROD-0773,Food Item 773,food,4749.66,19.75
+PROD-0774,Sports Item 774,sports,3175.95,
+PROD-0775,Clothing Item 775,clothing,381.22,27.83
+PROD-0776,Sports Item 776,sports,4500.63,37.85
+PROD-0777,Furniture Item 777,furniture,786.08,0.89
+PROD-0778,Pet Shop Item 778,pet_shop,2127.1,22.92
+PROD-0779,Pet Shop Item 779,pet_shop,2510.46,33.56
+PROD-0780,Books Item 780,books,2616.99,4.82
+PROD-0781,Automotive Item 781,automotive,3300.5,0.18
+PROD-0782,Books Item 782,books,1905.12,46.41
+PROD-0783,Home Appliances Item 783,home_appliances,3488.76,11.5
+PROD-0784,Sports Item 784,sports,450.32,48.45
+PROD-0785,Music Item 785,music,2588.7,8.87
+PROD-0786,Automotive Item 786,automotive,2162.12,31.38
+PROD-0787,Sports Item 787,sports,4746.03,12.53
+PROD-0788,Automotive Item 788,,832.64,4.43
+PROD-0789,Garden Item 789,garden,2017.49,
+PROD-0790,Clothing Item 790,clothing,4557.71,12.69
+PROD-0791,Beauty Item 791,beauty,3333.06,8.48
+PROD-0792,Sports Item 792,sports,1386.24,11.2
+PROD-0793,Garden Item 793,garden,4654.19,9.35
+PROD-0794,Toys Item 794,toys,242.39,36.66
+PROD-0795,Food Item 795,food,2085.39,18.82
+PROD-0796,Sports Item 796,sports,138.06,35.99
+PROD-0797,Health Item 797,health,56.05,45.87
+PROD-0798,Home Appliances Item 798,home_appliances,3784.55,10.57
+PROD-0799,Sports Item 799,sports,2467.36,36.42
+PROD-0800,Books Item 800,books,848.53,25.55
+PROD-0801,Food Item 801,food,2064.05,45.97
+PROD-0802,Furniture Item 802,furniture,801.52,41.74
+PROD-0803,Automotive Item 803,automotive,3003.53,14.4
+PROD-0804,Pet Shop Item 804,pet_shop,190.73,35.37
+PROD-0805,Health Item 805,health,58.39,45.66
+PROD-0806,Music Item 806,music,2608.44,19.7
+PROD-0807,Books Item 807,books,2303.43,47.12
+PROD-0808,Music Item 808,music,3494.23,39.16
+PROD-0809,Beauty Item 809,beauty,1317.86,
+PROD-0810,Music Item 810,music,-58.39,38.34
+PROD-0811,Office Supplies Item 811,office_supplies,3725.76,33.2
+PROD-0812,Music Item 812,music,1224.35,28.03
+PROD-0813,Health Item 813,health,692.3,10.16
+PROD-0814,Automotive Item 814,automotive,4909.21,15.64
+PROD-0815,Beauty Item 815,beauty,4195.44,46.42
+PROD-0816,Electronics Item 816,electronics,1391.38,15.87
+PROD-0817,Toys Item 817,toys,3821.75,0.73
+PROD-0818,Books Item 818,books,1059.66,32.02
+PROD-0819,Sports Item 819,sports,819.56,47.35
+PROD-0820,Health Item 820,health,1955.45,48.55
+PROD-0821,Health Item 821,health,913.82,43.94
+PROD-0822,Office Supplies Item 822,office_supplies,2175.33,32.89
+PROD-0823,Music Item 823,music,4675.18,46.09
+PROD-0824,Toys Item 824,toys,4016.81,37.04
+PROD-0825,Toys Item 825,toys,3810.37,42.44
+PROD-0826,Sports Item 826,sports,266.97,14.79
+PROD-0827,Books Item 827,books,4062.3,40.09
+PROD-0828,Office Supplies Item 828,,1753.89,28.16
+PROD-0829,Books Item 829,books,3360.44,18.57
+PROD-0830,Health Item 830,health,4859.68,23.6
+PROD-0831,Pet Shop Item 831,pet_shop,4284.1,
+PROD-0832,Electronics Item 832,electronics,751.42,29.97
+PROD-0833,Sports Item 833,sports,67.58,41.21
+PROD-0834,Toys Item 834,toys,4200.3,39.78
+PROD-0835,Toys Item 835,toys,1574.97,29.14
+PROD-0836,Garden Item 836,garden,1482.71,15.24
+PROD-0837,Books Item 837,books,536.22,15.25
+PROD-0838,Music Item 838,music,4306.12,39.94
+PROD-0839,Health Item 839,health,2262.68,46.97
+PROD-0840,Toys Item 840,toys,423.89,32.48
+PROD-0841,Home Appliances Item 841,home_appliances,4364.05,20.2
+PROD-0842,Books Item 842,books,3894.09,25.02
+PROD-0843,Food Item 843,food,3473.27,18.39
+PROD-0844,Music Item 844,music,4206.56,33.74
+PROD-0845,Furniture Item 845,furniture,4927.62,28.76
+PROD-0846,Furniture Item 846,furniture,4017.95,15.87
+PROD-0847,Toys Item 847,toys,254.07,5.98
+PROD-0848,Toys Item 848,toys,3076.54,31.07
+PROD-0849,Garden Item 849,garden,3485.1,41.66
+PROD-0850,Sports Item 850,sports,4875.73,10.05
+PROD-0851,Automotive Item 851,automotive,2503.12,3.66
+PROD-0852,Automotive Item 852,automotive,2246.48,21.16
+PROD-0853,Books Item 853,books,3623.19,23.49
+PROD-0854,Sports Item 854,sports,4760.43,38.41
+PROD-0855,Music Item 855,music,1912.39,19.39
+PROD-0856,Health Item 856,health,3390.76,17.43
+PROD-0857,Beauty Item 857,beauty,1875.59,34.78
+PROD-0858,Clothing Item 858,,754.43,43.13
+PROD-0859,Music Item 859,music,1735.58,33.98
+PROD-0860,Books Item 860,books,681.96,2.9
+PROD-0861,Clothing Item 861,clothing,11.37,18.99
+PROD-0862,Office Supplies Item 862,office_supplies,2500.37,14.1
+PROD-0863,Electronics Item 863,electronics,4795.96,40.2
+PROD-0864,Clothing Item 864,clothing,626.27,47.79
+PROD-0865,Beauty Item 865,beauty,,48.99
+PROD-0866,Health Item 866,health,3373.38,36.12
+PROD-0867,Pet Shop Item 867,pet_shop,1127.15,39.95
+PROD-0868,Pet Shop Item 868,pet_shop,4184.49,27.2
+PROD-0869,Electronics Item 869,electronics,3546.95,18.24
+PROD-0870,Books Item 870,books,2426.91,9.79
+PROD-0871,Music Item 871,music,3362.37,37.69
+PROD-0872,Home Appliances Item 872,home_appliances,2834.25,42.84
+PROD-0873,Home Appliances Item 873,home_appliances,4114.38,18.89
+PROD-0874,Furniture Item 874,furniture,,49.39
+PROD-0875,Office Supplies Item 875,office_supplies,3380.15,42.54
+PROD-0876,Music Item 876,music,516.24,17.05
+PROD-0877,Toys Item 877,toys,3346.24,33.97
+PROD-0878,Sports Item 878,,4225.8,26.8
+PROD-0879,Garden Item 879,garden,442.14,33.3
+PROD-0880,Sports Item 880,sports,54.01,6.54
+PROD-0881,Music Item 881,music,1752.26,23.96
+PROD-0882,Pet Shop Item 882,pet_shop,2058.61,46.14
+PROD-0883,Health Item 883,health,123.18,12.49
+PROD-0884,Automotive Item 884,automotive,1772.92,44.02
+PROD-0885,Automotive Item 885,automotive,894.91,43.78
+PROD-0886,Toys Item 886,toys,4632.04,45.27
+PROD-0887,Electronics Item 887,electronics,4379.1,24.59
+PROD-0888,Garden Item 888,garden,944.67,46.91
+PROD-0889,Books Item 889,books,1100.79,40.27
+PROD-0890,Health Item 890,health,307.77,17.27
+PROD-0891,Furniture Item 891,furniture,4040.04,22.65
+PROD-0892,Sports Item 892,sports,4807.05,35.95
+PROD-0893,Electronics Item 893,electronics,4444.04,34.58
+PROD-0894,Music Item 894,music,1873.35,9.42
+PROD-0895,Pet Shop Item 895,pet_shop,3272.42,28.81
+PROD-0896,Health Item 896,health,3078.55,37.84
+PROD-0897,Health Item 897,health,2190.39,45.72
+PROD-0898,Health Item 898,health,361.28,24.51
+PROD-0899,Clothing Item 899,clothing,729.02,14.69
+PROD-0900,Sports Item 900,sports,71.25,10.4
+PROD-0901,Books Item 901,books,3548.6,31.9
+PROD-0902,Pet Shop Item 902,pet_shop,337.11,16.54
+PROD-0903,Garden Item 903,garden,2972.51,11.57
+PROD-0904,Automotive Item 904,automotive,2707.12,23.65
+PROD-0905,Health Item 905,health,209.0,7.12
+PROD-0906,Health Item 906,health,2939.58,0.8
+PROD-0907,Books Item 907,books,790.61,23.08
+PROD-0908,Beauty Item 908,beauty,750.15,12.37
+PROD-0909,Garden Item 909,garden,1616.61,15.49
+PROD-0910,Books Item 910,books,1255.08,33.66
+PROD-0911,Books Item 911,books,4727.54,33.59
+PROD-0912,Food Item 912,food,2533.8,18.19
+PROD-0913,Food Item 913,food,4079.17,22.24
+PROD-0914,Beauty Item 914,beauty,1220.75,17.04
+PROD-0915,Books Item 915,books,-26.2,19.91
+PROD-0916,Home Appliances Item 916,home_appliances,4321.36,48.67
+PROD-0917,Health Item 917,health,2252.48,21.8
+PROD-0918,Music Item 918,music,4219.19,5.69
+PROD-0919,Furniture Item 919,furniture,4872.63,26.06
+PROD-0920,Automotive Item 920,automotive,3842.39,10.16
+PROD-0921,Pet Shop Item 921,pet_shop,3480.72,33.93
+PROD-0922,Home Appliances Item 922,home_appliances,240.56,13.62
+PROD-0923,Automotive Item 923,automotive,4362.51,12.01
+PROD-0924,Automotive Item 924,automotive,73.31,23.99
+PROD-0925,Clothing Item 925,clothing,4851.65,8.15
+PROD-0926,Sports Item 926,sports,316.25,35.77
+PROD-0927,Sports Item 927,sports,3439.26,1.32
+PROD-0928,Garden Item 928,garden,1022.89,36.32
+PROD-0929,Pet Shop Item 929,pet_shop,4997.76,45.79
+PROD-0930,Health Item 930,health,4665.27,37.17
+PROD-0931,Toys Item 931,toys,2836.96,17.6
+PROD-0932,Food Item 932,food,4644.1,40.63
+PROD-0933,Office Supplies Item 933,office_supplies,2815.42,24.94
+PROD-0934,Pet Shop Item 934,pet_shop,560.16,18.86
+PROD-0935,Health Item 935,,1093.72,30.0
+PROD-0936,Books Item 936,books,2437.28,46.78
+PROD-0937,Books Item 937,books,7.21,19.71
+PROD-0938,Clothing Item 938,clothing,2578.44,19.9
+PROD-0939,Furniture Item 939,furniture,3239.98,41.8
+PROD-0940,Sports Item 940,sports,3645.63,
+PROD-0941,Food Item 941,food,1710.51,44.32
+PROD-0942,Health Item 942,health,243.13,27.3
+PROD-0943,Pet Shop Item 943,pet_shop,3843.05,46.35
+PROD-0944,Electronics Item 944,electronics,3452.82,29.67
+PROD-0945,Furniture Item 945,furniture,2562.76,15.59
+PROD-0946,Sports Item 946,sports,4038.35,25.68
+PROD-0947,Sports Item 947,sports,916.81,49.16
+PROD-0948,Sports Item 948,sports,2114.79,
+PROD-0949,Beauty Item 949,beauty,738.31,44.99
+PROD-0950,Office Supplies Item 950,office_supplies,532.55,42.67
+PROD-0951,Health Item 951,health,1616.05,1.11
+PROD-0952,Furniture Item 952,furniture,1329.91,49.92
+PROD-0953,Clothing Item 953,clothing,1219.82,45.14
+PROD-0954,Home Appliances Item 954,home_appliances,2022.86,25.81
+PROD-0955,Music Item 955,music,4298.25,13.76
+PROD-0956,Pet Shop Item 956,pet_shop,,
+PROD-0957,Home Appliances Item 957,home_appliances,499.98,33.41
+PROD-0958,Beauty Item 958,beauty,1241.02,32.31
+PROD-0959,Food Item 959,food,-99.61,29.69
+PROD-0960,Home Appliances Item 960,home_appliances,3320.6,25.18
+PROD-0961,Beauty Item 961,beauty,2083.44,20.94
+PROD-0962,Health Item 962,health,1182.32,33.01
+PROD-0963,Sports Item 963,sports,1871.82,12.05
+PROD-0964,Clothing Item 964,clothing,3406.78,44.24
+PROD-0965,Automotive Item 965,automotive,2437.36,39.14
+PROD-0966,Furniture Item 966,furniture,3233.95,19.09
+PROD-0967,Furniture Item 967,furniture,2722.62,43.43
+PROD-0968,Garden Item 968,garden,4986.62,
+PROD-0969,Books Item 969,books,3353.28,29.92
+PROD-0970,Home Appliances Item 970,home_appliances,4787.95,18.09
+PROD-0971,Electronics Item 971,electronics,231.77,4.19
+PROD-0972,Electronics Item 972,electronics,3146.41,17.93
+PROD-0973,Electronics Item 973,electronics,495.72,37.3
+PROD-0974,Books Item 974,books,874.42,1.32
+PROD-0975,Automotive Item 975,automotive,2740.02,18.04
+PROD-0976,Health Item 976,health,1201.05,22.35
+PROD-0977,Furniture Item 977,furniture,3189.35,19.57
+PROD-0978,Office Supplies Item 978,office_supplies,4232.44,18.06
+PROD-0979,Beauty Item 979,beauty,2669.89,43.43
+PROD-0980,Furniture Item 980,furniture,1578.04,5.36
+PROD-0981,Home Appliances Item 981,home_appliances,-46.48,14.42
+PROD-0982,Toys Item 982,toys,4256.28,32.55
+PROD-0983,Music Item 983,music,4428.77,2.59
+PROD-0984,Beauty Item 984,beauty,3499.17,28.74
+PROD-0985,Garden Item 985,garden,9.99,21.46
+PROD-0986,Food Item 986,food,1606.51,35.35
+PROD-0987,Home Appliances Item 987,home_appliances,234.34,43.33
+PROD-0988,Garden Item 988,garden,1773.72,43.02
+PROD-0989,Garden Item 989,garden,1189.72,15.47
+PROD-0990,Food Item 990,food,269.17,45.6
+PROD-0991,Sports Item 991,sports,2141.94,12.31
+PROD-0992,Electronics Item 992,electronics,1347.78,14.97
+PROD-0993,Food Item 993,food,1442.13,1.41
+PROD-0994,Automotive Item 994,automotive,2117.81,43.36
+PROD-0995,Pet Shop Item 995,pet_shop,274.05,37.15
+PROD-0996,Books Item 996,books,1797.16,31.92
+PROD-0997,Automotive Item 997,automotive,4937.58,49.45
+PROD-0998,Garden Item 998,garden,626.18,34.13
+PROD-0999,Health Item 999,health,4834.32,45.78
+PROD-1000,Garden Item 1000,garden,3008.96,41.11
