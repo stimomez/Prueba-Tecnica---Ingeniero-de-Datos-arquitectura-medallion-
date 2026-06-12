@@ -11,6 +11,7 @@ La clase QualityCollector junta esos dicts y los materializa en CSV y
 Parquet, para que el evaluador pueda abrirlos con Excel o consultarlos
 con SQL (DuckDB).
 """
+
 from datetime import datetime, timezone
 
 import polars as pl
@@ -111,7 +112,16 @@ def referential_check(
         .join(parent_keys, left_on=child_col, right_on=parent_col, how="anti")
         .height
     )
-    return _record("referential_check", table, child_col, child_df.height, orphans, stage)
+    return _record(
+        "referential_check", table, child_col, child_df.height, orphans, stage
+    )
+
+
+def quarantine_record(
+    reason: str, table: str, records_checked: int, records_failed: int, stage: str
+) -> dict:
+    """Registra cuántas filas se enviaron a cuarentena por un motivo dado."""
+    return _record("quarantine", table, reason, records_checked, records_failed, stage)
 
 
 # ---------------------------------------------------------------------------
@@ -121,8 +131,14 @@ class QualityCollector:
     """Acumula registros de calidad y los materializa en CSV + Parquet."""
 
     SCHEMA_ORDER = [
-        "check_name", "table", "column", "records_checked",
-        "records_failed", "pct_failed", "stage", "executed_at",
+        "check_name",
+        "table",
+        "column",
+        "records_checked",
+        "records_failed",
+        "pct_failed",
+        "stage",
+        "executed_at",
     ]
 
     def __init__(self) -> None:
