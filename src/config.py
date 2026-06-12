@@ -33,6 +33,15 @@ ENTITIES = {
     "payments": "payments.csv",
     "reviews": "reviews.csv",
 }
+# Clave primaria por entidad (para detección de duplicados)
+PRIMARY_KEYS = {
+    "customers": "customer_id",
+    "products": "product_id",
+    "orders": "order_id",
+    "order_items": "item_id",
+    "payments": "payment_id",
+    "reviews": "review_id",
+}
 
 # ---------------------------------------------------------------------------
 # Reglas de negocio / rangos válidos (capa Silver)
