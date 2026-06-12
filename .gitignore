@@ -1,0 +1,50 @@
+# ===== Claude Code =====
+CLAUDE.md
+.claude/
+.claude.json
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.python-version
+
+# ===== Tests / coverage =====
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== Datos generados por el pipeline =====
+# Se versionan solo los CSVs crudos (data/raw), no las capas generadas
+data/bronze/
+data/silver/
+data/gold/
+data/quality/
+*.duckdb
+*.duckdb.wal
+
+# ===== Docker =====
+*.env
+.env.*
+!.env.example
+
+# ===== IDEs / SO =====
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ===== Logs y temporales =====
+*.log
+logs/
+tmp/
