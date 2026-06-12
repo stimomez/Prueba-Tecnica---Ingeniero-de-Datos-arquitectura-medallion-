@@ -1,0 +1,16 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.gitignore
+.claude/
+CLAUDE.md
+notebooks/
+data/bronze/
+data/silver/
+data/gold/
+data/quality/
+*.duckdb
+*.duckdb.wal
