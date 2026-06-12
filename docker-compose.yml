@@ -1,5 +1,25 @@
+
 services:
   pipeline:
     build: .
     volumes:
       - ./data:/app/data
+
+  jupyter:
+    build: .
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./data:/app/data
+      - ./notebooks:/app/notebooks
+    command: >
+      jupyter notebook
+      --ip=0.0.0.0
+      --port=8888
+      --no-browser
+      --NotebookApp.token=''
+      --NotebookApp.password=''
+      --notebook-dir=/app/notebooks
+    depends_on:
+      pipeline:
+        condition: service_completed_successfully
